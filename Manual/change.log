@@ -1,0 +1,7 @@
+ProfitDLL v3.0.1.20 (32 e 64 bits)
+
+ - Criação de novos callbacks com informações adicionais de ordens
+	- THistoryCallbackV2 e SetHistoryCallbackV2
+	- TOrderChangeCallbackV2 e SetOrderChangeCallbackV2
+ - Redução no número de logs devido a tratamento de erros internos da DLL.
+ - Simplificação interna do sistema de login.
